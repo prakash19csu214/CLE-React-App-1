@@ -3,7 +3,7 @@ import Home from '../../Pages/Home';
 import About from '../../Pages/About Us';
 import Header from '../Header';
 import Footer from '../Footer';
-import { Switch, Route, Redirect, withRouter } from 'react-router-dom';
+import { Switch, Route, Redirect } from 'react-router-dom';
 
 export default class Main extends Component {
   render() {
