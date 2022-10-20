@@ -1,0 +1,109 @@
+.section-2{
+    margin-left: 10%;
+  }
+  
+  .section-3{
+    margin-left: 10%;
+  }
+  
+  .section-4{
+    margin-left: 10%;
+  
+  }
+  
+  .sec4pic{
+    width: 382px;
+    height: 223px;
+    left: 135px;
+    top: 3828px;
+  
+    border-radius: 20px;
+  }
+  
+  .pic41{
+    background: url(../../Assets/Images/Rectangle_15.png), #C4C4C4;
+  }
+  
+  .pic41{
+    background: url(../../Assets/Images/Rectangle\ 16.png), #C4C4C4;
+  }
+  
+  .pic41{
+    background: url(../../Assets/Images/Rectangle\ 17.png), #C4C4C4;
+  }
+  
+  
+  .sec2-heading{
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 187.5%;
+    width: 50%;
+    /* or 47px */
+    margin-left: 20%;
+    text-align: center;
+  
+    color: #222222;
+  }
+  
+  .sec2-info{
+    width: 209px;
+    height: 40px;
+    left: 135px;
+    top: 1126px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 187.5%;
+    /* or 56px */
+  
+  
+    color: #222222;
+  }
+  
+  .sec2-infod{
+    width: 545px;
+    height: 101px;
+    left: 135px;
+    top: 1198px;
+    margin-left: 10%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187.5%;
+    /* or 30px */
+  
+  
+    color: #525252;
+  }
+  
+  .sec2-infod2{
+    width: 545px;
+    height: 101px;
+    left: 135px;
+    top: 1198px;
+    margin-left: 20%;
+    font-family: 'Poppins';
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187.5%;
+    /* or 30px */
+  
+  
+    color: #525252;
+  }
+  
+  .sec2-pic3{
+    width: 934px;
+    height: 462px;
+    left: 135px;
+    top: 1345px;
+    background: url(../../Assets/Images/Rectangle.png), #C4C4C4;
+    border-radius: 5px;
+    }

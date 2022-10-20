@@ -1,0 +1,128 @@
+
+
+.about{
+    color: red;
+}
+
+nav{
+    --bs-breadcrumb-divider: '>';
+}
+
+.breadcrumb-item a {
+    color: grey;
+    text-decoration: none;
+}
+
+.active a {
+    color: #E47500;
+}
+
+.sec-1{
+    margin-left: 110px;
+    margin-top: 800px;
+}
+
+.sec1-head{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 180.5%;
+    /* or 45px */
+
+    
+    color: #222222;
+}
+
+.jumbo  {
+    background-color: #E47500;
+    margin-bottom: 50%;
+
+}
+
+.pic-head{
+    position: absolute;
+width: 739px;
+height: 675px;
+left: 610px;
+top: 80px;
+
+background: url(../../Assets/Images/Rectangle_6.png), #979797;
+}
+
+.lorem-head{
+    position: absolute;
+width: 425px;
+height: 162px;
+left: 110px;
+top: 277px;
+margin-bottom: 200px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 180.5%;
+/* or 54px */
+
+
+color: #222222;
+}
+
+.head-para {
+    position: absolute;
+width: 414px;
+height: 95px;
+left: 110px;
+top: 464px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 208.5%;
+/* or 31px */
+
+
+color: #525252;
+}
+
+.head-btn {
+    position: absolute;
+width: 176px;
+height: 47.84px;
+left: 110px;
+top: 616.16px;
+
+background: linear-gradient(92.48deg, #FA8305 2.08%, #FB9E3C 117.25%);
+border-radius: 40px;
+}
+
+
+.head-btn p {
+    margin-top: 10px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.breadcrumb {
+    position: absolute;
+width: 109px;
+height: 25px;
+left: 110px;
+top: 214px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 208.5%;
+/* identical to box height, or 25px */
+
+
+color: #848484;
+}

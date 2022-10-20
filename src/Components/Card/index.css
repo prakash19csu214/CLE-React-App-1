@@ -1,0 +1,57 @@
+.sec1-card{
+    width: 378px;
+    height: 348px;
+    margin-top: 100px;
+    margin-right: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 94px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+
+.lorem-card-box{
+    width: 140px;
+height: 39px;
+margin: 50px 0px 0px 20px ;
+
+border-radius: 8px;
+}
+
+.lorem-card-box p{
+    padding-top: 8px;
+    margin-left: 20px;
+}
+
+.sec1-card-head{
+    width: 133px;
+height: 38px;
+margin-top: 19px;
+margin-left: 37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 187.5%;
+/* identical to box height, or 38px */
+
+
+color: #000000;
+
+}
+
+.sec1-card-para{
+    width: 304px;
+height: 108px;
+margin-top: 16px;
+margin-left: 37px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 187.5%;
+/* or 26px */
+
+
+color: #525252;
+}
