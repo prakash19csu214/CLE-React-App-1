@@ -1,5 +1,7 @@
 import React, { Component } from "react";
-import Card  from "../../Components/Card";
+import Card from "../../Components/Card";
+import { Button } from "reactstrap";
+import * as Constants from "../../Services/Constants";
 import "./index.css";
 
 export default class About extends Component {
@@ -37,6 +39,23 @@ export default class About extends Component {
           <div className="sec1-head">Why work with us</div>
           <Card />
         </section>
+
+        <div className="secla-m">
+          <div className="secla">
+            <div className="row sec-5">
+              <div className="col-12 col-sm-6">
+                <div className="sec5-pic5"></div>
+              </div>
+              <div className="col-12 col-sm-6">
+                <div className="sec5-heading">{Constants.loremHeading2}</div>
+                <div className="sec5-para">
+                  {Constants.loremPara2} {Constants.loremPara}
+                </div>
+                <Button className="jumbo-btn">Read More</Button>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     );
   }

@@ -109,6 +109,18 @@ line-height: 24px;
 color: #FFFFFF;
 }
 
+.secla{
+    padding-top: 10px;
+    padding-bottom: 80px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: -80px;
+}
+
+.secla-m{
+    background: #E5E5E5;
+}
+
 .breadcrumb {
     position: absolute;
 width: 109px;

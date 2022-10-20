@@ -1,0 +1,74 @@
+.subscribe {
+    width: 1170px;
+    height: 189px;
+    margin-left: 100px;
+    margin-top: 80px;
+    margin-bottom: -80px;
+    background: #1B1B1B;
+    border-radius: 15px;
+}
+
+.subs-heading {
+    width: 303px;
+    height: 45px;
+    margin-top: 40px;
+    margin-left: 56px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.subs-para {
+    width: 636px;
+    height: 52px;
+    margin-top: 10px;
+    margin-left: 56px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+
+}
+
+.input-group {
+    width: 385.68px;
+    height: 48px;
+    margin-top: 60px;
+    margin-left: 350px;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.btn-box {
+    width: 105px;
+    height: 48px;
+
+    background: #DC7000;
+    border-radius: 8px;
+}
+
+.btn-txt {
+    width: 69.3px;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}

@@ -89,6 +89,84 @@ background: url(Assets/Images/jevi-web-studio-ar-vr.png);
   border-radius: 40px;
 }
 
+
+.sec-5 {
+  margin-top: 140px;
+
+}
+
+.sec5-pic4{
+  width: 651px;
+height: 488px;
+
+background: url(./Assets/Images/Video\ Image.png)
+}
+
+.sec5-pic5{
+  width: 651px;
+height: 488px;
+
+background: url(./Assets/Images/Rectangle\ 29.png)
+}
+
+.sec5-pic3{
+  width: 651px;
+height: 488px;
+
+background: url(./Assets/Images/Rectangle\ 25.png)
+}
+
+.sec5-pic1{
+  width: 651px;
+height: 488px;
+
+background: url(./Assets/Images/Rectangle\ 26.png)
+
+}
+
+.sec5-pic2{
+  width: 651px;
+height: 488px;
+
+background: url(./Assets/Images/Rectangle\ 27.png)
+
+}
+
+.sec5-pic{
+  width: 651px;
+height: 488px;
+
+background: url(./Assets/Images/sec5.png);
+
+}
+
+.sec5-heading {
+  width: 472px;
+  height: 90px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  margin-bottom: 50px;
+  color: #000000;
+
+}
+
+.sec5-para {
+  width: 536px;
+  height: 159px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 26px;
+  margin-bottom: 80px;
+  color: #515151;
+}
+
 address{
   font-size:80%;
   margin:0px;
@@ -160,4 +238,33 @@ address{
 
 
   color: #1A1A1A;
+}
+
+.sec2-info {
+  width: 209px;
+  height: 40px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 187.5%;
+  /* or 56px */
+
+
+  color: #222222;
+}
+
+.sec2-infod {
+  width: 545px;
+  height: 101px;
+  margin-left: 10%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 187.5%;
+  /* or 30px */
+
+
+  color: #525252;
 }
