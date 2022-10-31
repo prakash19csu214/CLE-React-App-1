@@ -8,7 +8,7 @@ export default class Services extends Component {
   render() {
     return (
       <>
-      <Breadcrumb />
+      <Breadcrumb url="/services" name="Services"/>
         <div className="sec-2-m">
           <div className="sec-2">
             <div className="row sec-5">

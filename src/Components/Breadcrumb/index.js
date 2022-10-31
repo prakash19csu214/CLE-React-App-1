@@ -1,23 +1,23 @@
 import React from "react";
 import "./index.css";
 
-const Breadcrumb = () => {
+const Breadcrumb = (props) => {
   return (
     <>
       <div className="container">
         <div>
-        <nav aria-label="breadcrumb">
-          <ol class="breadcrumb">
+        <nav>
+          <ol className="breadcrumb mt-5">
             <div className="container">
-            <li class="breadcrumb-item">
+            <li className="breadcrumb-item">
               <a href="/home">Home</a>
             </li>
-            <li class="breadcrumb-item active" aria-current="page">
-              <a href="/services">Services</a>
+            <li className="breadcrumb-item active" aria-current="page">
+              <a href={props.url}>{props.name}</a>
             </li>
             </div>
           </ol>
-        </nav>
+          </nav>
         </div>
         <div className="container">
           <div className="bc-heading mt-5">

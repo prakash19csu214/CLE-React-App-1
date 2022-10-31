@@ -38,3 +38,11 @@ text-align: center;
 
 color: #848484;
 }
+
+nav{
+    --bs-breadcrumb-divider: '>';
+}
+
+li{
+    display: inline-block;
+}

@@ -5,7 +5,7 @@ export default class News extends Component {
   render() {
     return (
       <>
-        <Breadcrumb />
+        <Breadcrumb url="/news" name="News"/>
       </>
     )
   }
