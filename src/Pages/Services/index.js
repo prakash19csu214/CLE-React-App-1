@@ -1,33 +1,14 @@
 import React, { Component } from "react";
 import { Button } from "reactstrap";
 import * as Constants from "../../Services/Constants";
+import Breadcrumb from "../../Components/Breadcrumb";
 import "./index.css";
 
 export default class Services extends Component {
   render() {
     return (
       <>
-        <div className="bc-top">
-          <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-              <li class="breadcrumb-item">
-                <a href="/home">Home</a>
-              </li>
-              <li class="breadcrumb-item active" aria-current="page">
-                <a href="/services">Services</a>
-              </li>
-            </ol>
-          </nav>
-
-          <div className="bc-heading">
-            Lorem Ipsum is simply dummy text of the printing and.
-          </div>
-          <div className="bc-para">
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry.
-          </div>
-        </div>
-
+      <Breadcrumb />
         <div className="sec-2-m">
           <div className="sec-2">
             <div className="row sec-5">

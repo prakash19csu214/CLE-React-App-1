@@ -8,8 +8,9 @@ export default class About extends Component {
   render() {
     return (
       <div className="aboutus">
+        <div className="container">
         <nav aria-label="breadcrumb">
-          <ol class="breadcrumb">
+          <ol class="breadcrumb mt-5">
             <li class="breadcrumb-item">
               <a href="/home">Home</a>
             </li>
@@ -18,6 +19,7 @@ export default class About extends Component {
             </li>
           </ol>
         </nav>
+        </div>
         <div className="row jumbo">
           <div className="col-12 col-sm-6">
             <div className="lorem-head">

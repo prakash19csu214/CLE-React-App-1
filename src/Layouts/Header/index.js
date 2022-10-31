@@ -65,7 +65,7 @@ class Header extends Component {
                 </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink className="nav-link" to="/contactus">
+                <NavLink className="nav-link" to="/news">
                   News
                 </NavLink>
               </NavItem>
@@ -73,7 +73,7 @@ class Header extends Component {
             </Nav>
             <Nav className="ml-auto" navbar>
               <NavItem>
-                <Button className="btn-contact" outline>
+                <Button className="btn-contact" to="/contactus" outline>
                   Contact Us
                 </Button>
               </NavItem>

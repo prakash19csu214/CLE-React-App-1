@@ -1,0 +1,40 @@
+
+
+.bc-heading{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 180.5%;
+/* identical to box height, or 60px */
+
+text-align: center;
+
+color: #222222;
+
+}
+
+.bc-para{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 187.5%;
+/* or 30px */
+
+text-align: center;
+
+color: #898989;
+}
+
+.breadcrumb {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 208.5%;
+/* identical to box height, or 25px */
+text-align: center;
+
+color: #848484;
+}
