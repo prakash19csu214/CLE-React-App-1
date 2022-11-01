@@ -1,18 +1,13 @@
 .subscribe {
-    width: 1170px;
-    height: 189px;
-    margin-left: 100px;
     margin-top: 80px;
-    margin-bottom: -80px;
     background: #1B1B1B;
     border-radius: 15px;
+    margin-bottom: -100px;
 }
 
 .subs-heading {
-    width: 303px;
-    height: 45px;
-    margin-top: 40px;
-    margin-left: 56px;
+    margin-top: 20px;
+    margin-left: 20px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
@@ -25,10 +20,9 @@
 }
 
 .subs-para {
-    width: 636px;
-    height: 52px;
     margin-top: 10px;
-    margin-left: 56px;
+    margin-left: 20px;
+    margin-bottom: 20px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -39,19 +33,16 @@
 
 }
 
+
 .input-group {
-    width: 385.68px;
-    height: 48px;
-    margin-top: 60px;
-    margin-left: 350px;
+    margin-top: 30px;
     background: #FFFFFF;
     border-radius: 8px;
+    margin-bottom: 20px;
 }
 
 .btn-box {
-    width: 105px;
-    height: 48px;
-
+    padding-bottom: 10px;
     background: #DC7000;
     border-radius: 8px;
 }
@@ -72,3 +63,33 @@
 
     color: #FFFFFF;
 }
+
+.sec2-info {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 187.5%;
+    /* or 56px */
+  
+  
+    color: #222222;
+  }
+  
+  .section-2 {
+    margin-top: 40px;
+    margin-left: 0px;
+  }
+
+  .sec2-infod {
+    margin-left: 10%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187.5%;
+    /* or 30px */
+  
+  
+    color: #525252;
+  }

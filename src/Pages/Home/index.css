@@ -1,23 +1,21 @@
-.section-2 {
+.section-20 {
   margin-top: 40px;
-  margin-left: 10%;
 }
 
 .section-3 {
   margin-top: 40px;
-  margin-left: 10%;
 }
 
 
 .section-4 {
   margin-top: 40px;
-  margin-left: 10%;
 
 }
 
 .sec4-pic {
   width: 382px;
   height: 223px;
+  max-width: 100%;
   margin-right: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -59,18 +57,13 @@
   width: 50%;
   /* or 47px */
   margin-top: 80px;
-  margin-left: 20%;
   text-align: center;
 
   color: #222222;
 }
 
+
 .sec2-infod2 {
-  width: 545px;
-  height: 101px;
-  left: 135px;
-  top: 1198px;
-  margin-left: 20%;
   font-family: 'Poppins';
   text-align: center;
   font-style: normal;

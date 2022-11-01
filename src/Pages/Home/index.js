@@ -10,7 +10,7 @@ export default class Home extends Component {
       <>
         <Jumbotron>
           <div className="container">
-            <div className="row row-header">
+            <div className="row row-header justify-content-center">
               <div className="col-12 col-sm-4">
                 <br />
                 <div className="heading-jumbo">Digital Marketing</div>
@@ -19,28 +19,28 @@ export default class Home extends Component {
                 <Button className="jumbo-btn">Get More Details</Button>
               </div>
               <div className="col-12 col-sm-6">
-                <div className="jumbo-pic"></div>
+                <div className="jumbo-pic img-fluid"></div>
               </div>
             </div>
           </div>
         </Jumbotron>
         <br />
-        <div className="section-2">
-          <div className="sec2-heading">{Constants.loremHeading2}</div>
+        <div className="section-20 container">
+          <div className="sec2-heading container">{Constants.loremHeading2}</div>
           <br />
           <div className="sec2-info">{Constants.loremHeading}</div>
           <br />
           <div className="sec2-infod">{Constants.loremPara}</div>
 
-          <div className="sec2-pic3"></div>
+          <div className="sec2-pic3 mt-5 img-fluid"></div>
 
           <br />
-          <div className="sec2-heading">{Constants.loremHeading2}</div>
+          <div className="sec2-heading container">{Constants.loremHeading2}</div>
           <br />
-          <div className="sec2-infod2">{Constants.loremPara}</div>
+          <div className="sec2-infod2 container">{Constants.loremPara}</div>
         </div>
 
-        <div className="section-3">
+        <div className="section-3 container">
           <div className="sec2-info">{Constants.loremHeading}</div>
           <br />
           <div className="sec2-infod">{Constants.loremPara}</div>
@@ -50,15 +50,15 @@ export default class Home extends Component {
           </div>
         </div>
 
-        <div className="section-4">
+        <div className="section-4 container">
           <br />
           <br />
-          <div className="sec2-heading">Our Recent Projects</div>
+          <div className="sec2-heading container">Our Recent Projects</div>
           <br />
-          <div className="sec2-infod2" style={{ textAlign: "end" }}>
+          <div className="sec2-infod2 container mb-5" >
             {Constants.loremHeading2}
           </div>
-          <div className="row">
+          <div className="row container justify-content-center">
             <div className="sec4-pic pic41 col-12 col-sm-4"></div>
             <div className="sec4-pic pic42 col-12 col-sm-4"></div>
             <div
@@ -79,9 +79,9 @@ export default class Home extends Component {
             ></div>
           </div>
 
-          <div className="row sec-5">
+          <div className="row sec-5 container">
             <div className="col-12 col-sm-6">
-              <div className="sec5-pic"></div>
+              <div className="sec5-pic img-fluid"></div>
             </div>
             <div className="col-12 col-sm-6">
               <div className="sec5-heading">{Constants.loremHeading2}</div>

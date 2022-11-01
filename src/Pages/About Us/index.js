@@ -20,7 +20,7 @@ export default class About extends Component {
           </ol>
         </nav>
         </div>
-        <div className="row jumbo">
+        <div className="row jumbo container">
           <div className="col-12 col-sm-6">
             <div className="lorem-head">
               Lorem Ipsum is simply dummy text of the printing and.
@@ -37,7 +37,7 @@ export default class About extends Component {
           <div className="col-12 col-sm-6 pic-head"></div>
         </div>
 
-        <section className="sec-1">
+        <section className="sec-1 container">
           <div className="sec1-head">Why work with us</div>
           <Card />
         </section>
