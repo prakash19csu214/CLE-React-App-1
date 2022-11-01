@@ -4,3 +4,132 @@
     background: #F1F1F1;
     border-radius: 10px;
 }
+
+.sec-head{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 34px;
+
+color: #000000;
+}
+
+.sec-2-btn{
+    width: 137.97px;
+height: 39.9px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 187.5%;
+/* or 26px */
+
+
+color: #FFFCFC;
+
+background: #000000;
+}
+
+.sec-2-txt{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 187.5%;
+/* or 26px */
+
+
+color: #424242;
+}
+
+.sec-2{
+    margin-top: 150px;
+    margin-left: 0px;
+}
+
+
+
+.part-2{
+
+    margin-bottom: 50px;
+}
+
+.sec-2-img {
+    width: 195px;
+    height: 183px;
+    border-radius: 20px;
+}
+
+.img-1{
+    background: url(../../Assets/Images/Rectangle\ 276.png), #C4C4C4;
+}
+
+.img-2{
+    background: url(../../Assets/Images/Rectangle\ 276\ \(1\).png), #C4C4C4;
+}
+
+.img-3{
+    background: url(../../Assets/Images/Rectangle\ 276\ \(2\).png), #C4C4C4;
+}
+
+.img-4{
+    background: url(../../Assets/Images/Rectangle\ 276\ \(3\).png), #C4C4C4;
+}
+
+.img-5{
+    background: url(../../Assets/Images/Rectangle\ 276\ \(4\).png), #C4C4C4;
+}
+
+.img-6{
+    background: url(../../Assets/Images/Rectangle\ 276\ \(5\).png), #C4C4C4;
+}
+
+.img-7{
+    background: url(../../Assets/Images/Rectangle\ 276\ \(6\).png), #C4C4C4;
+}
+
+.sec-1 {
+    margin-left: auto;
+    margin-top: 150px;
+}
+
+.sec-2-image {
+    width: 587px;
+    height: 295px;
+
+    background: url(../../Assets/Images/Rectangle275.png), #C4C4C4;
+    border-radius: 20px;
+}
+
+.sec-1-image {
+    width: 587px;
+    height: 295px;
+
+    background: url(../../Assets/Images/Rectangle274.png), #C4C4C4;
+    border-radius: 20px;
+}
+
+.sec-1-head {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+
+    color: #000000;
+}
+
+.sec-1-para {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 207.8%;
+    /* or 35px */
+
+
+    color: #515151;
+
+}
