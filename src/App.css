@@ -96,42 +96,46 @@ background: url(Assets/Images/jevi-web-studio-ar-vr.png);
 }
 
 .sec5-pic4{
+height: 350px;
 
 background: url(./Assets/Images/Video\ Image.png)
 }
 
 .sec5-pic5{
+height: 488px;
 
 background: url(./Assets/Images/Rectangle\ 29.png)
 }
 
 .sec5-pic3{
+height: 488px;
 
 background: url(./Assets/Images/Rectangle\ 25.png)
 }
 
 .sec5-pic1{
+height: 488px;
 
 background: url(./Assets/Images/Rectangle\ 26.png)
 
 }
 
 .sec5-pic2{
+height: 488px;
 
 background: url(./Assets/Images/Rectangle\ 27.png)
 
 }
 
 .sec5-pic{
-  width: 651px;
 height: 488px;
-margin-left: -50px;
 
 background: url(./Assets/Images/sec5.png);
 
 }
 
 .sec5-heading {
+
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 500;
@@ -225,3 +229,5 @@ address{
 
   color: #1A1A1A;
 }
+
+

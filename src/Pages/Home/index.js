@@ -84,8 +84,8 @@ export default class Home extends Component {
               <div className="sec5-pic img-fluid"></div>
             </div>
             <div className="col-12 col-sm-6">
-              <div className="sec5-heading">{Constants.loremHeading2}</div>
-              <div className="sec5-para">{Constants.loremPara2} {Constants.loremPara}</div>
+              <div className="sec5-heading container">{Constants.loremHeading2}</div>
+              <div className="sec5-para container">{Constants.loremPara2} {Constants.loremPara}</div>
               <Button className="jumbo-btn">Read More</Button>
             </div>
           </div>

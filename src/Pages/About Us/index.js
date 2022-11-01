@@ -44,9 +44,9 @@ export default class About extends Component {
 
         <div className="secla-m">
           <div className="secla">
-            <div className="row sec-5">
+            <div className="row sec-5 container">
               <div className="col-12 col-sm-6">
-                <div className="sec5-pic5"></div>
+                <div className="sec5-pic5 img-fluid"></div>
               </div>
               <div className="col-12 col-sm-6">
                 <div className="sec5-heading">{Constants.loremHeading2}</div>

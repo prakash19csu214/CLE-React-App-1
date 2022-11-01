@@ -9,11 +9,11 @@ export default class Services extends Component {
     return (
       <>
       <Breadcrumb url="/services" name="Services"/>
-        <div className="sec-2-m">
+        <div className="sec-2-m container">
           <div className="sec-2">
             <div className="row sec-5">
-              <div className="col-12 col-sm-6">
-                <div className="sec5-pic1"></div>
+              <div className="col-12 col-sm-5">
+                <div className="sec5-pic1 img-fluid"></div>
               </div>
               <div className="col-12 col-sm-6">
                 <div className="sec5-heading">{Constants.loremHeading2}</div>
@@ -31,12 +31,12 @@ export default class Services extends Component {
                 </div>
                 <Button className="jumbo-btn">Read More</Button>
               </div>
-              <div className="col-12 col-sm-6">
-                <div className="sec5-pic2"></div>
+              <div className="col-12 col-sm-5">
+                <div className="sec5-pic2 img-fluid"></div>
               </div>
             </div>
             <div className="row sec-5">
-              <div className="col-12 col-sm-6">
+              <div className="col-12 col-sm-5">
                 <div className="sec5-pic3"></div>
               </div>
               <div className="col-12 col-sm-6">
@@ -55,8 +55,8 @@ export default class Services extends Component {
                 </div>
                 <Button className="jumbo-btn">Read More</Button>
               </div>
-              <div className="col-12 col-sm-6">
-                <div className="sec5-pic4"></div>
+              <div className="col-12 col-sm-5">
+                <div className="sec5-pic4 img-fluid"></div>
               </div>
             </div>
           </div>
