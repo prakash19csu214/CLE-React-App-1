@@ -7,6 +7,7 @@ import Header from '../Header';
 import Footer from '../Footer';
 import Subscribe from '../../Components/Subscribe';
 import { Switch, Route, Redirect } from 'react-router-dom';
+import ContactUs from '../../Pages/ContactUs';
 
 export default class Main extends Component {
   render() {
@@ -19,6 +20,7 @@ export default class Main extends Component {
             <Route exact path="/aboutus" component={About} />
             <Route exact path="/services" component={Services} />
             <Route exact path="/news" component={News} />
+            <Route exact path="/contactus" component={ContactUs} />
             <Redirect to="/home" />
           </Switch>
           <Subscribe />

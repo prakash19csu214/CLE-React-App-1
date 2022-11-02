@@ -37,7 +37,7 @@ class Header extends Component {
         </div>
         </div>
         <div className="col-12">
-        <Navbar dark expand="md">
+        <Navbar dark expand="lg">
           <div className="container">
             <div className="row">
             <div className="col-1">
@@ -73,9 +73,11 @@ class Header extends Component {
             </Nav>
             <Nav className="ml-auto" navbar>
               <NavItem>
+                <NavLink to="/contactus">
                 <Button className="btn-contact" to="/contactus" outline>
                   Contact Us
                 </Button>
+                </NavLink>
               </NavItem>
             </Nav>
             </Collapse>

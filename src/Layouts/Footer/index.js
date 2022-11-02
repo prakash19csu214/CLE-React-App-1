@@ -18,10 +18,10 @@ function Footer(){
                 <div className="col-4 offset-sm-1 col-sm-2">
                     <h5>About Us</h5>
                     <ul className="list-unstyled footer-details">
-                        <li>Company</li>
-                        <li>Portfolio</li>
-                        <li>Careers</li>
-                        <li>Contact us</li>
+                        <li>Company</li><br />
+                        <li>Portfolio</li><br />
+                        <li>Careers</li><br />
+                        <li>Contact us</li><br />
                     </ul>
                 </div>
                 <div className="col-4 col-sm-3">
