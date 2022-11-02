@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Navbar, NavbarBrand, Nav, NavbarToggler, 
-  Collapse, NavItem, Modal, ModalBody, ModalHeader, Button, Form, FormGroup, Label, Input } from "reactstrap";
+  Collapse, NavItem,  Button, } from "reactstrap";
 import NavLink from "react-router-dom/NavLink";
 
 class Header extends Component {
