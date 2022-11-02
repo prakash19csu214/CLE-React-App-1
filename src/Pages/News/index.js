@@ -61,7 +61,7 @@ export default class News extends Component {
                 </div>
               </div>
             </div>
-            <div className="col-12 col-sm-6 sec-2">
+            <div className="col-12 col-sm-5 mx-4 sec-2">
               <div className="row part-2">
                 <div className="col-4">
                   <div className="sec-2-img img-1 img-fluid"></div>

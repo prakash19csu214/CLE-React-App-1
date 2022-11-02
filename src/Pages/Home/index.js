@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Jumbotron, Button } from "reactstrap";
+import homeImg from '../../Assets/Images/homeImg.png'
 import Card from "../../Components/Card";
 import * as Constants from "../../Services/Constants";
 import "./index.css";
@@ -19,7 +20,7 @@ export default class Home extends Component {
                 <Button className="jumbo-btn">Get More Details</Button>
               </div>
               <div className="col-12 col-sm-6">
-                <div className="jumbo-pic img-fluid"></div>
+                <img src={homeImg} alt="home" className="jumbo-pic img-fluid" />
               </div>
             </div>
           </div>

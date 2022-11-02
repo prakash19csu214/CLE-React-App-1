@@ -31,3 +31,42 @@ line-height: 30px;
 
 color: #333333;
 }
+
+.sec3-head{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 189.5%;
+/* or 25px */
+
+text-align: center;
+
+color: #777777;
+}
+
+.sec-3{
+    background: #F5F5F5;
+}
+
+.sec3-head{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 189.5%;
+/* identical to box height, or 57px */
+
+
+color: #000000;
+
+}
+
+.form-group{
+    margin-top: 20px;
+}
+
+.btn-color{
+    background: #DC7000;
+    color: #FFFFFF;
+}
